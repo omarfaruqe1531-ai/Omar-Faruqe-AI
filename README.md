@@ -1,3 +1,4 @@
 # Omar-Faruqe-AI
-<br> This is my first AI project
+ This is my first AI project
+ <br>
 Author - Omar Faruqe
